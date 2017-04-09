@@ -1,0 +1,34 @@
+							<h3>Soup</h3>
+							<h3>Duck Dishes</h3>
+							<h3>Chicken Dishes</h3>
+							<h3>Beef Dishes</h3>
+							<h3>Pork Dishes</h3>
+							<h3>Seafood Dishes</h3>
+							<h3>Curry Dishes (Available to change chips to Egg Fried Rice or Boiled Rice)</h3>
+							<h3>Lamb Dishes</h3>
+							<h3>Egg Foo Yung Dishes</h3>
+							<h3>Chop Suey Dishes</h3>
+							<h3>Rice Dishes</h3>
+							<h3>Chow Mein Dishes</h3>
+							<h3>Vegetarian Dishes (v)</h3>
+							<h3>Special Meal Deals</h3>
+							<h3>Desserts</h3>
+							<h3>Sauce</h3>
+							<h3>RECOMMENDED SET DINNERS</h3>
+							<h3>Soup</h3>
+							<h3>Duck Dishes</h3>
+							<h3>Chicken Dishes</h3>
+							<h3>Beef Dishes</h3>
+							<h3>Pork Dishes</h3>
+							<h3>Seafood Dishes</h3>
+							<h3>Curry Dishes (Available to change chips to Egg Fried Rice or Boiled Rice)</h3>
+							<h3>Lamb Dishes</h3>
+							<h3>Egg Foo Yung Dishes</h3>
+							<h3>Chop Suey Dishes</h3>
+							<h3>Rice Dishes</h3>
+							<h3>Chow Mein Dishes</h3>
+							<h3>Vegetarian Dishes (v)</h3>
+							<h3>Special Meal Deals</h3>
+							<h3>Desserts</h3>
+							<h3>Sauce</h3>
+							<h3>RECOMMENDED SET DINNERS</h3>
